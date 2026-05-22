@@ -1,9 +1,9 @@
 # Drunk Cards 🃏
 
-A local multiplayer party card game built as a PWA. Players take turns drawing 
+A local multiplayer party card game built as a PWA. Players take turns drawing
 cards and completing challenges.
 
-🎮 **Live demo:** [[Drunk Cards](https://drunkcards.up.railway.app/)]
+🎮 **Live demo:** [drunkcards.up.railway.app](https://drunkcards.up.railway.app)
 
 ## Features
 
